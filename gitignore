@@ -1,0 +1,10 @@
+# Keil MDK - Build outputs (compiled files, not needed on GitHub)
+Objects/
+Listings/
+
+# Keil user-specific files (different for each person's PC)
+*.uvguix.*
+*.uvoptx
+
+# Keil event recorder
+EventRecorderStub.scvd
